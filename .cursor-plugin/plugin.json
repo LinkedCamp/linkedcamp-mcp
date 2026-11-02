@@ -1,0 +1,17 @@
+{
+  "name": "linkedcamp",
+  "displayName": "LinkedCamp",
+  "description": "LinkedIn and email outreach from Cursor: campaigns, unified inbox, leads, analytics and client reports. 133 tools.",
+  "icon": "assets/icon-296.png",
+  "categories": ["Marketing", "Sales", "CRM"],
+  "repository": "https://github.com/LinkedCamp/linkedcamp-mcp",
+  "homepage": "https://www.linkedcamp.com/mcp",
+  "documentation": "https://docs.linkedcamp.com/mcp/overview",
+  "mcp": {
+    "servers": {
+      "linkedcamp": {
+        "url": "https://mcp.linkedcamp.com/mcp"
+      }
+    }
+  }
+}

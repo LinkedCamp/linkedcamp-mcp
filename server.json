@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.linkedcamp/mcp",
+  "description": "LinkedIn and email outreach for lead-gen agencies: build and launch campaigns, write sequences, triage the unified inbox, manage prospects and pull client reports.",
+  "version": "1.0.0",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/LinkedCamp/linkedcamp-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.linkedcamp.com/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.linkedcamp.com/mcp"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "linkedcamp",
+  "version": "1.0.0",
+  "description": "LinkedIn and email outreach: campaigns, unified inbox, leads, analytics and client reports.",
+  "mcpServers": {
+    "linkedcamp": {
+      "httpUrl": "https://mcp.linkedcamp.com/mcp"
+    }
+  }
+}
