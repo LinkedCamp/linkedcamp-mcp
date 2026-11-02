@@ -8,6 +8,7 @@
   Run LinkedIn and email outreach from ChatGPT, Claude, Cursor or any MCP client.
   <br>
   <a href="https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp"><img src="https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp/badges/score.svg" alt="LinkedCamp MCP connector"></a>
+  <a href="https://mcptry.com/servers/com.linkedcamp/mcp"><img src="https://mcptry.com/badge/com.linkedcamp/mcp" alt="mcptry"></a>
 </p>
 
 <p align="center">
