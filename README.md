@@ -8,14 +8,14 @@
   Run LinkedIn and email outreach from ChatGPT, Claude, Cursor or any MCP client.
   <br>
   <a href="https://docs.linkedcamp.com/mcp/overview">Documentation</a> ·
-  <a href="https://www.linkedcamp.com/mcp">Product page</a> ·
+  <a href="https://www.linkedcamp.com/mcp?utm_source=github-linkedcamp-mcp&utm_medium=referral&utm_campaign=mcp-directory">Product page</a> ·
   <a href="mailto:support@linkedcamp.com">Support</a>
 </p>
 
 ---
 
-LinkedCamp is LinkedIn and email outreach for lead-gen agencies. This is its
-official **hosted** MCP server: build and launch campaigns, write multi-step
+[LinkedCamp](https://www.linkedcamp.com/mcp?utm_source=github-linkedcamp-mcp&utm_medium=referral&utm_campaign=mcp-directory) is LinkedIn and email outreach for lead-gen
+agencies. This is its official **hosted** MCP server: build and launch campaigns, write multi-step
 sequences, triage the unified inbox, manage prospects and pull client reports —
 all from an AI assistant.
 
@@ -31,7 +31,7 @@ https://mcp.linkedcamp.com/mcp
 | **Transport** | Streamable HTTP (remote) |
 | **Auth** | OAuth 2.1 with PKCE and dynamic client registration, or an `X-Api-Key` header |
 | **Tools** | 133 across 14 groups — 64 read-only, 69 write, 28 flagged destructive |
-| **Requires** | A LinkedCamp Pro or Agency plan. 14-day free trial. |
+| **Requires** | A [LinkedCamp](https://www.linkedcamp.com/mcp?utm_source=github-linkedcamp-mcp&utm_medium=referral&utm_campaign=mcp-directory) Pro or Agency plan. 14-day free trial. |
 | **Registry** | `com.linkedcamp/mcp` |
 
 ## Connect
@@ -136,4 +136,4 @@ unrecognised name is ignored rather than leaving you with an empty connection.
 - Email — [support@linkedcamp.com](mailto:support@linkedcamp.com)
 
 This repository holds the install documentation and client manifests only. The
-server itself is hosted by LinkedCamp and is not open source.
+server itself is hosted by [LinkedCamp](https://www.linkedcamp.com/mcp?utm_source=github-linkedcamp-mcp&utm_medium=referral&utm_campaign=mcp-directory) and is not open source.
