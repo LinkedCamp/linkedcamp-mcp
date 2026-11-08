@@ -10,6 +10,7 @@
   <a href="https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp"><img src="https://glama.ai/mcp/connectors/com.linkedcamp.mcp/linked-camp/badges/score.svg" alt="LinkedCamp MCP connector"></a>
   <a href="https://mcptry.com/servers/com.linkedcamp/mcp"><img src="https://mcptry.com/badge/com.linkedcamp/mcp" alt="mcptry"></a>
   <a href="https://mcprush.com/to/linkedcamp-mcp?ref=badge"><img src="https://mcprush.com/badge/linkedcamp-mcp/card.svg" alt="Linkedcamp MCP server"></a>
+  <a href="https://aiagentslisting.com/mcp/linkedcamp-mcp"><img src="https://aiagentslisting.com/linkedcamp-mcp/badge.svg?claim=81588834d60d6bc68e170037a459fa47" alt="Linkedcamp Mcp on AI Agents Listing"></a>
 </p>
 
 <p align="center">
